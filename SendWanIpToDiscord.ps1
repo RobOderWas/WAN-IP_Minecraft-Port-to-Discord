@@ -7,7 +7,7 @@ $port = 25565
 
 $content = @"
 > @everyone
-# Aktuelle Minecraft Server Addresse:
+# Aktuelle Minecraft Server Adresse:
 ``${wanIP}:${port}``
 "@
 
